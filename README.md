@@ -3,5 +3,5 @@ The Currency Converter application is developed using React Native, aiming to fa
 
 ## Screenshots
 
-![App Screenshot](S1.jpg)
-![App Screenshot](S2.jpg) 
+![App Screenshot](S3.jpg)
+![App Screenshot](S4jpg) 
